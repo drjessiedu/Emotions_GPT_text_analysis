@@ -1,3 +1,4 @@
+#code emotions text data using GPT-Sami (11, 2023)
 import time
 import json
 import openai
